@@ -1,6 +1,6 @@
 ﻿## Linux-0.11 ##
 ### RTFSC ###
-###Eric modified###
+### Eric modified ###
 Linus曾经说过：RTFSC - Read The Fucking Source Code.
 
 本代码是目前能够找到的最早的Linux的内核版本。（如果你能找到更早版本的Linux源码，请一定要告诉[我](karottc@gmail.com)。;-) ）
